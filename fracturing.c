@@ -17,13 +17,13 @@ double calculateDistance() { // calculate the distance between two points with d
     double y1 = askForUserInput();
     
     // printing out point 1 coordinates
-    printf("Point #1 was entered: x1 = %lf; y1= %lf\n", x1, y1);
+    printf("Point #1 was entered: x1 = %lf; y1 = %lf\n", x1, y1);
 
     double x2 = askForUserInput();
     double y2 = askForUserInput();
 
     // printing out point 2 coordinates
-    printf("Point #2 was entered: x2 = %lf; y2= %lf\n", x2, y2);
+    printf("Point #2 was entered: x2 = %lf; y2 = %lf\n", x2, y2);
 
     
     // using the distance formula
